@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @liurenzhang
-- 👀 I’m interested in cloud computing, such as golang, kuberbetes, docker, containerd and kata. 
+- 👀 I’m interested in cloud computing, such as golang, kubernetes, docker, containerd and kata. 
 - 🌱 I’m currently learning Edge computing
 - 💞️ I’m looking to collaborate on cloud computing area.
 - 📫 How to reach me
